@@ -1,5 +1,7 @@
 package org.example;
 
+//https://docs.google.com/presentation/d/1sG4EZT0792oABvPpf65eS6zQDHVDVKBv6XhcVFUWe-I/edit?usp=sharing
+
 /*
 Дополнительные материалы:
 1) Теория: Книга "Карьера программиста" – Глава "О" Большое
