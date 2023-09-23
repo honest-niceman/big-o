@@ -1,7 +1,5 @@
 package org.example;
 
-import java.util.Arrays;
-
 /*
 Дополнительные материалы:
 1) Теория: Книга "Карьера программиста" – Глава "О" Большое
@@ -10,7 +8,8 @@ import java.util.Arrays;
 4) Применяем на практике: https://leetcode.com/
  */
 
-public class Main {
+@SuppressWarnings("unused")
+public class BigO {
 
     /*
     Сложность по времени в данном случае будет O(N+M) так как мы обходим два разных массива.
